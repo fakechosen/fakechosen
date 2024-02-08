@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [(update soon)]((update soon))
 
-- 📫 How to reach me **jaibhatia1989@gmail.com**
+- 📫 Contact me via e-mail on **jaibhatia1989@gmail.com**
 
 - 📄 Know about my experiences [(update soon)]((update soon))
 
