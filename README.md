@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Unreal Engine, Unity**
 
-- 👨‍💻 All of my projects are available here or at [my portfolio]((https://sites.google.com/view/jaibhatiaportfolio/))
+- 👨‍💻 All of my projects are available here or at [my portfolio](https://sites.google.com/view/jaibhatiaportfolio/)
 
 - 📫 Contact me via e-mail on **jaibhatia1989@gmail.com**
 
