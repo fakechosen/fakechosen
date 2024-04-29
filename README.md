@@ -9,7 +9,7 @@
 
 - 📫 Contact me via e-mail on **jaibhatia1989@gmail.com**
 
-- 📄 Know about my experiences [(update soon)]((update soon))
+- 📄 Know about my experiences via [my resume](https://drive.google.com/file/d/1JfTOhYIttq4-KXA_W7Qoa3apxYiyrlQC/view)
 
 - ⚡ Fun fact **I am also an esports player**
 
